@@ -34,3 +34,9 @@ if __name__ == "__main__":
     """
 
   print(increase.__doc__)
+
+  # Python multiline comments
+
+  """
+  Python doesn't support multiline comments.
+  """
